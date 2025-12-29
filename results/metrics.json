@@ -1,0 +1,260 @@
+{
+  "overall_accuracy": 0.9818181818181818,
+  "overall_recency": 0.06363636363636363,
+  "overall_random": 0.00909090909090909,
+  "accuracy_by_condition": [
+    {
+      "n_characters": 2,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 2,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 4,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 4,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 6,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 6,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 8,
+      "length": "long",
+      "accuracy": 0.8,
+      "ci_low": 0.4,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 8,
+      "length": "short",
+      "accuracy": 0.8,
+      "ci_low": 0.4,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 10,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 10,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 12,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 12,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 16,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 16,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 20,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 20,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 24,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 24,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 28,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 28,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 32,
+      "length": "long",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    },
+    {
+      "n_characters": 32,
+      "length": "short",
+      "accuracy": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "count": 5
+    }
+  ],
+  "length_tests": [
+    {
+      "n_characters": 2,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 4,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 6,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 8,
+      "z": 0.0,
+      "p_value": 1.0
+    },
+    {
+      "n_characters": 10,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 12,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 16,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 20,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 24,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 28,
+      "z": NaN,
+      "p_value": NaN
+    },
+    {
+      "n_characters": 32,
+      "z": NaN,
+      "p_value": NaN
+    }
+  ],
+  "logistic_regression": {
+    "params": {
+      "const": 2.862998031613289,
+      "n_characters": 0.10275317973887033,
+      "long_flag": 8.257283745649602e-16
+    },
+    "pvalues": {
+      "const": 0.0350312118517257,
+      "n_characters": 0.3580911939502709,
+      "long_flag": 0.9999999999999996
+    }
+  },
+  "segmented_fit": {
+    "break": 8,
+    "aic": 18.008048474045115
+  },
+  "error_types": {
+    "correct": 108,
+    "confusion": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "model": "gpt-4.1",
+  "n_values": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32
+  ],
+  "length_conditions": [
+    "short",
+    "long"
+  ],
+  "trials_per_condition": 5,
+  "long_distractors_per_block": 8,
+  "short_distractors_per_block": 3,
+  "update_steps": "n for short, 2n for long",
+  "timestamp": "2025-12-29T00:59:33.286121"
+}
